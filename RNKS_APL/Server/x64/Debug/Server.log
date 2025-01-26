@@ -1,0 +1,3 @@
+﻿  server.c
+C:\Users\User\Desktop\RNKS_APL\Server\server.c(36,25): warning C4244: "Funktion": Konvertierung von "SOCKET" in "int", möglicher Datenverlust
+  Server.vcxproj -> C:\Users\User\Desktop\RNKS_APL\x64\Debug\Server.exe

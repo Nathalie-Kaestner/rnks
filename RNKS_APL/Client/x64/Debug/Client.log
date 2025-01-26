@@ -1,0 +1,5 @@
+﻿  client.c
+C:\Users\User\Desktop\RNKS_APL\Client\client.c(66,21): warning C4244: "Funktion": Konvertierung von "SOCKET" in "int", möglicher Datenverlust
+C:\Users\User\Desktop\RNKS_APL\Client\client.c(96,29): warning C4244: "Funktion": Konvertierung von "SOCKET" in "int", möglicher Datenverlust
+C:\Users\User\Desktop\RNKS_APL\Client\client.c(125,21): warning C4244: "Funktion": Konvertierung von "SOCKET" in "int", möglicher Datenverlust
+  Client.vcxproj -> C:\Users\User\Desktop\RNKS_APL\x64\Debug\Client.exe
